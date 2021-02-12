@@ -1,0 +1,65 @@
+<svg width="600" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient x1="0.60389" x2="0.58036" y1="0.72116" xlink:href="#linearGradient2529" y2="-0.41332" id="linearGradient7993"/>
+  <linearGradient x1="0.60003" x2="0.60003" y1="0.7647" xlink:href="#linearGradient2541" y2="0.32362" id="linearGradient7984"/>
+  <linearGradient x1="0.63528" x2="0.63136" y1="0.65613" y2="-0.01569" id="linearGradient7992">
+   <stop stop-color="rgb(222, 222, 222)" offset="0" id="stop1569"/>
+   <stop stop-color="rgb(171, 171, 171)" offset="0.42929" id="stop1574"/>
+   <stop stop-color="rgb(227, 227, 227)" offset="0.58571" id="stop3320"/>
+   <stop stop-color="rgb(255, 255, 255)" offset="1" id="stop1570"/>
+  </linearGradient>
+  <linearGradient x1="0.26854" x2="0.54837" y1="-1.01285" xlink:href="#linearGradient1492" y2="1.3159" id="linearGradient7980"/>
+  <linearGradient id="linearGradient2529">
+   <stop stop-color="rgb(255, 255, 255)" stop-opacity="0" offset="0" id="stop2530"/>
+   <stop stop-color="rgb(255, 255, 255)" offset="1" id="stop2532"/>
+  </linearGradient>
+  <linearGradient x1="0.45883" x2="0.45883" y1="0.6667" xlink:href="#linearGradient2529" y2="-0.45794" id="linearGradient7987"/>
+  <linearGradient id="linearGradient2541">
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0" offset="0" id="stop2542"/>
+   <stop stop-color="rgb(0, 0, 0)" offset="1" id="stop2543"/>
+  </linearGradient>
+  <linearGradient x1="0.55296" x2="0.56422" y1="0.99987" xlink:href="#linearGradient2541" y2="-0.19453" id="linearGradient7975"/>
+  <linearGradient x1="0.59274" x2="0.69929" y1="0.15438" xlink:href="#linearGradient1806" y2="1.95002" id="linearGradient3418"/>
+  <linearGradient id="linearGradient1492">
+   <stop stop-color="rgb(198, 198, 198)" offset="0" id="stop1493"/>
+   <stop stop-color="rgb(241, 241, 241)" offset="0.34923" id="stop1496"/>
+   <stop stop-color="rgb(240, 240, 240)" offset="1" id="stop1494"/>
+  </linearGradient>
+  <linearGradient x1="0.72101" x2="0.71902" y1="0.21911" xlink:href="#linearGradient1492" y2="2.07612" id="linearGradient1495"/>
+  <linearGradient id="linearGradient1806">
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0.52941" offset="0" id="stop1807"/>
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0.07345" offset="0.64778" id="stop3276"/>
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0" offset="1" id="stop1808"/>
+  </linearGradient>
+  <radialGradient r="51.668" cx="24.826" cy="176.56" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient1806" fy="137.43" fx="27.01" id="radialGradient1505"/>
+  <radialGradient x2="1" x1="1" r="125.21" cx="-289.09" cy="598.37" gradientUnits="userSpaceOnUse" fy="552.24" fx="-285.65" id="svg_1">
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0.37241" offset="0" id="stop1852"/>
+   <stop stop-color="rgb(0, 0, 0)" stop-opacity="0.11034" offset="0.5" id="stop1854"/>
+   <stop stop-color="rgb(173, 173, 173)" stop-opacity="0" offset="1" id="stop1853"/>
+  </radialGradient>
+ </defs>
+ <metadata>image/svg+xmlOpenclipartPrinter2006-12-26T00:00:00https://openclipart.org/detail/24819/-by--24819Anonymous</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="602" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="matrix(2.4563077888523925,0,0,2.5191561032096192,-1691.73850520976,563.8834339332672) " id="g5461">
+   <path fill-rule="evenodd" fill="url(#svg_1)" d="m712.5428,-69.43049c0,-6.21859 41.19843,-11.26001 92.02576,-11.26001s92.03311,5.04142 92.03311,11.26001s-41.20578,11.25911 -92.03311,11.25911s-92.02576,-5.04052 -92.02576,-11.25911z" id="path3953"/>
+   <g transform="matrix(1.3192,0,0,1.3192,649.59,-493.96) " id="g3334">
+    <path fill-rule="evenodd" stroke-width="1pt" fill="url(#radialGradient1505)" d="m189.65945,311.52953c0,-6.56234 -31.18121,-11.88246 -69.64539,-11.88246s-69.64539,5.32013 -69.64539,11.88246c0,6.56022 31.18121,11.88035 69.64539,11.88035s69.64539,-5.32013 69.64539,-11.88035z" id="path8072"/>
+    <path fill-rule="evenodd" stroke="url(#linearGradient3418)" stroke-width="0.88744" fill="url(#linearGradient1495)" d="m47.70023,278.74827l0,15.23c0,7.73 9.743,15.24 17.469,15.24l17.469,0l17.469,0l17.469,0l17.469,0l17.465,0l17.47,0c7.73,0 17.47,-7.51 17.47,-15.24l0,-15.23c0,-15.45 -19.48,-30.47 -34.94,-30.47l-17.465,0l-17.469,0l-17.469,0l-17.469,0c-15.453,0 -34.938,15.02 -34.938,30.47z" id="rect7969"/>
+    <path fill-rule="evenodd" fill="#000000" fill-opacity="0.52201" d="m61.66323,265.11827c0,6.96 3.695,6.94 11.761,6.94l90.286,0c7.67,0 13.45,1.03 11.48,-6.29c-2.15,-8.02 -14.75,-14.96 -23.99,-14.96l-66.131,0c-8.966,0 -23.406,6.97 -23.406,14.31z" id="path7972"/>
+    <rect fill-rule="evenodd" fill="url(#linearGradient7975)" x="68.41923" y="292.96827" width="100.34" height="12.594" ry="2.198" rx="2.198" id="rect7973"/>
+    <path stroke-linejoin="round" stroke="#000000" stroke-linecap="round" stroke-width="3.75" fill="none" d="m77.44723,256.40827l81.073,0" id="path7971"/>
+    <path fill-rule="evenodd" fill="url(#linearGradient7987)" d="m65.11023,264.89827c0,6.54 3.472,6.52 11.049,6.52l84.821,0c7.2,0 12.63,0.97 10.79,-5.91c-2.02,-7.54 -13.87,-14.06 -22.54,-14.06l-62.131,0c-8.423,0 -21.989,6.55 -21.989,13.45z" id="path7986"/>
+    <rect stroke-opacity="0.50943" fill-rule="evenodd" stroke="#000000" stroke-width="0.62537" fill="url(#linearGradient7980)" x="82.98923" y="211.71827" width="72.017" height="45.081" id="rect7979"/>
+    <path stroke-opacity="0.38994" fill-rule="evenodd" stroke="#000000" stroke-width="0.56359" fill="#888888" d="m75.38123,297.84827l-5.746,23.82l98.155,0l-5.18,-23.82l-87.229,0z" id="rect7981"/>
+    <path fill-rule="evenodd" fill="url(#linearGradient7992)" d="m80.71323,294.24827l-4.212,22.1l84.079,0l-2.96,-22.1l-76.907,0z" id="rect7989"/>
+    <rect fill-rule="evenodd" fill="url(#linearGradient7984)" x="68.41923" y="292.96827" width="100.34" height="12.594" ry="2.198" rx="2.198" id="rect7982"/>
+    <path fill-rule="evenodd" fill="url(#linearGradient7993)" d="m82.98923,231.08827l0,25.85l72.021,0l0,-25.85c-28.885,-13 -39.078,17.06 -72.021,0z" id="rect7996"/>
+   </g>
+  </g>
+ </g>
+</svg>
